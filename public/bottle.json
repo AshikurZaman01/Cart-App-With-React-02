@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Eco-friendly Water Bottle",
+        "price": 15.99,
+        "imageUrl": "https://images.unsplash.com/photo-1563223771-b3ceda999392?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 1.5,
+        "specification": ["Made from recycled materials", "BPA-free", "600ml capacity"],
+        "color": ["Green", "Blue", "Yellow"],
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "Insulated Stainless Steel Bottle",
+        "price": 25.99,
+        "imageUrl": "https://images.unsplash.com/photo-1567877357967-246600b931f9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.8,
+        "specification": ["Keeps drinks cold for 24 hours", "750ml capacity"],
+        "color": ["Black", "Silver", "White"],
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Sports Water Bottle",
+        "price": 12.99,
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1681154819686-43fcc4dc4df3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "specification": ["Leak-proof", "500ml capacity", "Lightweight"],
+        "color": ["Red", "Blue", "Orange"],
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Glass Water Bottle",
+        "price": 18.99,
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1670426500263-f8bf41b5afef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.6,
+        "specification": ["High-quality borosilicate glass", "550ml capacity"],
+        "color": ["Clear", "Blue", "Green"],
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Plastic Water Bottle",
+        "price": 9.99,
+        "imageUrl": "https://images.unsplash.com/photo-1560847468-5eef330f455a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 3.9,
+        "specification": ["Durable plastic", "BPA-free", "700ml capacity"],
+        "color": ["Pink", "Purple", "Clear"],
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "Travel Water Bottle",
+        "price": 22.99,
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1681408059522-b83aa9c0a0be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.7,
+        "specification": ["Foldable", "800ml capacity", "Comes with a carabiner"],
+        "color": ["Black", "Blue", "Gray"],
+        "available": false
+    },
+    {
+        "id": 7,
+        "name": "Copper Water Bottle",
+        "price": 30.99,
+        "imageUrl": "https://images.unsplash.com/photo-1487536988267-23b03fdfc3c3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.3,
+        "specification": ["Pure copper", "900ml capacity", "Helps in boosting immunity"],
+        "color": ["Copper"],
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Collapsible Water Bottle",
+        "price": 14.99,
+        "imageUrl": "https://images.unsplash.com/photo-1571059750558-3d869522f707?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.5,
+        "specification": ["Silicone material", "500ml capacity", "Collapses to save space"],
+        "color": ["Gray", "Purple", "Teal"],
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "Aluminum Water Bottle",
+        "price": 19.99,
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1664527305901-db3d4e724d15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.4,
+        "specification": ["Lightweight aluminum", "600ml capacity", "Eco-friendly"],
+        "color": ["Silver", "Red", "Blue"],
+        "available": false
+    },
+    {
+        "id": 10,
+        "name": "Reusable Water Bottle",
+        "price": 12.99,
+        "imageUrl": "https://images.unsplash.com/photo-1574670700790-fa314ab37787?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.6,
+        "specification": ["Dishwasher safe", "500ml capacity", "Reusable for a sustainable lifestyle"],
+        "color": ["White", "Black", "Green"],
+        "available": true
+    },
+    {
+        "id": 11,
+        "name": "Titanium Water Bottle",
+        "price": 35.99,
+        "imageUrl": "https://images.unsplash.com/photo-1585222515065-289d4dba9c06?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.9,
+        "specification": ["Ultra-light", "BPA-free", "750ml capacity"],
+        "color": ["Silver", "Gray"],
+        "available": true
+    },
+    {
+        "id": 12,
+        "name": "Double-Walled Glass Bottle",
+        "price": 24.99,
+        "imageUrl": "https://images.unsplash.com/photo-1593281003370-2d63534d8c4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.7,
+        "specification": ["Keeps drinks hot or cold", "500ml capacity", "No condensation"],
+        "color": ["Clear"],
+        "available": true
+    },
+    {
+        "id": 13,
+        "name": "Bamboo Water Bottle",
+        "price": 27.99,
+        "imageUrl": "https://images.unsplash.com/photo-1597581584036-e8f0cf8a2c1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.6,
+        "specification": ["Eco-friendly bamboo exterior", "Stainless steel interior", "700ml capacity"],
+        "color": ["Natural Bamboo"],
+        "available": true
+    },
+    {
+        "id": 14,
+        "name": "Smart Water Bottle",
+        "price": 45.99,
+        "imageUrl": "https://images.unsplash.com/photo-1608321674414-5f9a9f6e9f77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c21hcnQlMjB3YXRlciUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.8,
+        "specification": ["Tracks water intake", "LED temperature display", "600ml capacity"],
+        "color": ["Black", "Blue", "Pink"],
+        "available": true
+    },
+    {
+        "id": 15,
+        "name": "Travel Mug Water Bottle",
+        "price": 19.99,
+        "imageUrl": "https://images.unsplash.com/photo-1559134854-8f7f68b1870e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dHJhdmVsJTIwbXVnJTIwd2F0ZXIlMjBib3R0bGV8ZW58MHx8MHx8fDA%3D",
+        "rating": 4.4,
+        "specification": ["Double-walled insulation", "Keeps drinks hot or cold", "500ml capacity"],
+        "color": ["Silver", "Black"],
+        "available": true
+    },
+    {
+        "id": 16,
+        "name": "Wide Mouth Water Bottle",
+        "price": 11.99,
+        "imageUrl": "https://images.unsplash.com/photo-1594912512123-f74a76033ba1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8d2lkZSUyMG1vdXRoJTIwd2F0ZXIlMjBib3R0bGV8ZW58MHx8MHx8fDA%3D",
+        "rating": 4.1,
+        "specification": ["Easy to clean", "BPA-free", "600ml capacity"],
+        "color": ["Blue", "Green", "Pink"],
+        "available": true
+    },
+    {
+        "id": 17,
+        "name": "Filtered Water Bottle",
+        "price": 32.99,
+        "imageUrl": "https://images.unsplash.com/photo-1581578732705-c1f3fc92c5b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmlsdGVyZWQlMjB3YXRlciUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.5,
+        "specification": ["Built-in filter", "Removes impurities", "500ml capacity"],
+        "color": ["White", "Black"],
+        "available": true
+    },
+    {
+        "id": 18,
+        "name": "Kids Water Bottle",
+        "price": 8.99,
+        "imageUrl": "https://images.unsplash.com/photo-1515500196455-f1a0eb64c3bc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8a2lkcyUyMHdhdGVyJTIwYm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.3,
+        "specification": ["BPA-free", "300ml capacity", "Easy to carry"],
+        "color": ["Blue", "Pink", "Yellow"],
+        "available": true
+    },
+    {
+        "id": 19,
+        "name": "Yoga Water Bottle",
+        "price": 16.99,
+        "imageUrl": "https://images.unsplash.com/photo-1578926283838-330f8c64d482?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHlvc2ElMjB3YXRlciUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "specification": ["Silicone sleeve for grip", "BPA-free", "500ml capacity"],
+        "color": ["Purple", "Green", "Gray"],
+        "available": true
+    },
+    {
+        "id": 20,
+        "name": "Minimalist Water Bottle",
+        "price": 14.99,
+        "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWluaW1hbGlzdCUyMHdhdGVyJTIwYm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.4,
+        "specification": ["Sleek design", "BPA-free", "600ml capacity"],
+        "color": ["Black", "White", "Gray"],
+        "available": true
+    },
+    {
+        "id": 21,
+        "name": "Fruit Infuser Water Bottle",
+        "price": 13.99,
+        "imageUrl": "https://images.unsplash.com/photo-1590835511397-4e7993ee6b77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJ1aXQlMjBpbnNldCUyMHdhdGVyJTIwYm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.6,
+        "specification": ["Includes fruit infuser", "750ml capacity", "BPA-free"],
+        "color": ["Blue", "Green", "Pink"],
+        "available": true
+    },
+    {
+        "id": 22,
+        "name": "Hydration Tracking Bottle",
+        "price": 29.99,
+        "imageUrl": "https://images.unsplash.com/photo-1578364368544-8c2644d978f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aHlkcmF0aW9uJTIwdHJhY2tpbmclMjB3YXRlciUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.8,
+        "specification": ["Tracks daily water intake", "600ml capacity", "BPA-free"],
+        "color": ["Black", "White"],
+        "available": true
+    },
+    {
+        "id": 23,
+        "name": "Classic Stainless Steel Bottle",
+        "price": 21.99,
+        "imageUrl": "https://images.unsplash.com/photo-1576229676403-2ed2d6f2f7e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3RhaW5sZXNzJTIwc3RlZWwlMjB3YXRlciUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.7,
+        "specification": ["Keeps drinks hot or cold", "700ml capacity", "Durable stainless steel"],
+        "color": ["Silver", "Black", "White"],
+        "available": true
+    },
+    {
+        "id": 24,
+        "name": "Ergonomic Grip Water Bottle",
+        "price": 17.99,
+        "imageUrl": "https://images.unsplash.com/photo-1569090627723-e7f6db8f113c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZXJnb25vbWljJTIwZ3JpcCUyMHdhdGVyJTIwYm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.5,
+        "specification": ["Ergonomic grip design", "BPA-free", "750ml capacity"],
+        "color": ["Blue", "Green", "Red"],
+        "available": true
+    },
+    {
+        "id": 25,
+        "name": "Leak-proof Water Bottle",
+        "price": 12.99,
+        "imageUrl": "https://images.unsplash.com/photo-1542053930-d2ae8a0a8145?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGVhayUyMHByb29mJTIwd2F0ZXIlMjBib3R0bGV8ZW58MHx8MHx8fDA%3D",
+        "rating": 4.3,
+        "specification": ["Leak-proof cap", "BPA-free", "500ml capacity"],
+        "color": ["Black", "Clear", "Blue"],
+        "available": true
+    },
+    {
+        "id": 26,
+        "name": "Infuser Water Bottle",
+        "price": 13.99,
+        "imageUrl": "https://unsplash.com/photos/a-glass-bottle-with-a-pink-lid-on-a-purple-background-zjV3-gW4Crw",
+        "rating": 4.4,
+        "specification": ["Includes infuser", "700ml capacity", "BPA-free"],
+        "color": ["Pink", "Green", "Blue"],
+        "available": true
+    },
+    {
+        "id": 27,
+        "name": "Adventure Water Bottle",
+        "price": 26.99,
+        "imageUrl": "https://images.unsplash.com/photo-1530711654140-23ef9ad45094?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEFkdmVudHVyZSUyMFdhdGVyJTIwQm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.7,
+        "specification": ["Durable design", "800ml capacity", "Leak-proof"],
+        "color": ["Black", "Green", "Gray"],
+        "available": true
+    },
+    {
+        "id": 28,
+        "name": "Squeeze Water Bottle",
+        "price": 9.99,
+        "imageUrl": "https://images.unsplash.com/photo-1648313021325-d81f28d57824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3F1ZWV6ZSUyMFdhdGVyJTIwQm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.1,
+        "specification": ["Squeeze design", "BPA-free", "600ml capacity"],
+        "color": ["Yellow", "Red", "Blue"],
+        "available": true
+    },
+    {
+        "id": 29,
+        "name": "Eco-Friendly Sports Bottle",
+        "price": 17.99,
+        "imageUrl": "https://images.unsplash.com/photo-1628200487311-7bdfd5e6ace3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEVjbyUyMEZyaWVuZGx5JTIwU3BvcnRzJTIwQm90dGxlfGVufDB8fDB8fHww",
+        "rating": 4.5,
+        "specification": ["Eco-friendly materials", "Leak-proof", "500ml capacity"],
+        "color": ["Green", "Blue"],
+        "available": true
+    },
+    {
+        "id": 30,
+        "name": "Durable Outdoor Bottle",
+        "price": 23.99,
+        "imageUrl": "https://images.unsplash.com/photo-1701983430857-c4110a465a27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RHVyYWJsZSUyME91dGRvb3IlMjBCb3R0bGV8ZW58MHx8MHx8fDA%3D",
+        "rating": 4.6,
+        "specification": ["Durable design", "1000ml capacity", "Leak-proof"],
+        "color": ["Black", "Red", "Blue"],
+        "available": true
+    }
+]
